@@ -1,0 +1,52 @@
+<div class="container mt-4">
+  <h2>Список сотрудников</h2>
+  <div class="container mt-4">
+  <h2>Сотрудники</h2>
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th>Отдел</th>
+        <th>Ф.И.О</th>
+        <th>Дата рождения</th>
+        <th>Дата устройства</th>
+        <th>Зарплата</th>
+        <th></th>
+      </tr>
+      <tr>
+        <th>
+          <input type="text" [(ngModel)]="filters.department" (input)="applyFilters()" class="form-control">        
+        </th>
+        <th>
+          <input type="text" [(ngModel)]="filters.fullName" (input)="applyFilters()" class="form-control">
+        </th>
+        <th>
+          <input type="date" [(ngModel)]="filters.birthDate" (change)="applyFilters()" class="form-control">
+        </th>
+        <th>
+          <input type="date" [(ngModel)]="filters.hireDate" (change)="applyFilters()" class="form-control">
+        </th>
+        <th>
+          <input type="number" [(ngModel)]="filters.wages" (input)="applyFilters()" class="form-control"> 
+        </th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let employee of filteredEmployees">
+        <td>{{employee.department}}</td>
+        <td>{{employee.fullName}}</td>
+        <td>{{employee.birthDate | date}}</td>
+        <td>{{employee.hireDate | date}}</td>
+        <td>{{employee.wages}}</td>
+        <td>
+            <button class="btn btn-success" (click)="openCreate()">Создать</button>
+            <button class="btn btn-success" (click)="openEdit(employee)">Изменить</button>
+            <button class="btn btn-success" (click)="openDelete(employee)">Удалить</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  
+<!-- Модальные окна реализуются через ng-bootstrap или аналогичные библиотеки -->
+
+</div>

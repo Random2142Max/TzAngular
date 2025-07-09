@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Bandik\\Charp_and_Unity (Study)\\Charp test\\TzAngular\\TzAngular.Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{915A85E5-9FD8-48C8-8CA1-B6BFD6DD29DA}|TzAngular.Backend.csproj|d:\\bandik\\charp_and_unity (study)\\charp test\\tzangular\\tzangular.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{915A85E5-9FD8-48C8-8CA1-B6BFD6DD29DA}|TzAngular.Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{915A85E5-9FD8-48C8-8CA1-B6BFD6DD29DA}|TzAngular.Backend.csproj|d:\\bandik\\charp_and_unity (study)\\charp test\\tzangular\\tzangular.backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{915A85E5-9FD8-48C8-8CA1-B6BFD6DD29DA}|TzAngular.Backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{915A85E5-9FD8-48C8-8CA1-B6BFD6DD29DA}|TzAngular.Backend.csproj|d:\\bandik\\charp_and_unity (study)\\charp test\\tzangular\\tzangular.backend\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{915A85E5-9FD8-48C8-8CA1-B6BFD6DD29DA}|TzAngular.Backend.csproj|solutionrelative:models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{915A85E5-9FD8-48C8-8CA1-B6BFD6DD29DA}|TzAngular.Backend.csproj|d:\\bandik\\charp_and_unity (study)\\charp test\\tzangular\\tzangular.backend\\models\\data\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{915A85E5-9FD8-48C8-8CA1-B6BFD6DD29DA}|TzAngular.Backend.csproj|solutionrelative:models\\data\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{915A85E5-9FD8-48C8-8CA1-B6BFD6DD29DA}|TzAngular.Backend.csproj|d:\\bandik\\charp_and_unity (study)\\charp test\\tzangular\\tzangular.backend\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{915A85E5-9FD8-48C8-8CA1-B6BFD6DD29DA}|TzAngular.Backend.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{915A85E5-9FD8-48C8-8CA1-B6BFD6DD29DA}|TzAngular.Backend.csproj|d:\\bandik\\charp_and_unity (study)\\charp test\\tzangular\\tzangular.backend\\tzangular.backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{915A85E5-9FD8-48C8-8CA1-B6BFD6DD29DA}|TzAngular.Backend.csproj|solutionrelative:tzangular.backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{915A85E5-9FD8-48C8-8CA1-B6BFD6DD29DA}|TzAngular.Backend.csproj|d:\\bandik\\charp_and_unity (study)\\charp test\\tzangular\\tzangular.backend\\tzangular.backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{915A85E5-9FD8-48C8-8CA1-B6BFD6DD29DA}|TzAngular.Backend.csproj|solutionrelative:tzangular.backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{915A85E5-9FD8-48C8-8CA1-B6BFD6DD29DA}|TzAngular.Backend.csproj|d:\\bandik\\charp_and_unity (study)\\charp test\\tzangular\\tzangular.backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{915A85E5-9FD8-48C8-8CA1-B6BFD6DD29DA}|TzAngular.Backend.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TzAngular.Backend",
+              "DocumentMoniker": "D:\\Bandik\\Charp_and_Unity (Study)\\Charp test\\TzAngular\\TzAngular.Backend\\TzAngular.Backend.csproj",
+              "RelativeDocumentMoniker": "TzAngular.Backend.csproj",
+              "ToolTip": "D:\\Bandik\\Charp_and_Unity (Study)\\Charp test\\TzAngular\\TzAngular.Backend\\TzAngular.Backend.csproj",
+              "RelativeToolTip": "TzAngular.Backend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-09T13:01:51.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompanyContext.cs",
+              "DocumentMoniker": "D:\\Bandik\\Charp_and_Unity (Study)\\Charp test\\TzAngular\\TzAngular.Backend\\Models\\Data\\CompanyContext.cs",
+              "RelativeDocumentMoniker": "Models\\Data\\CompanyContext.cs",
+              "ToolTip": "D:\\Bandik\\Charp_and_Unity (Study)\\Charp test\\TzAngular\\TzAngular.Backend\\Models\\Data\\CompanyContext.cs",
+              "RelativeToolTip": "Models\\Data\\CompanyContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:28:11.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Bandik\\Charp_and_Unity (Study)\\Charp test\\TzAngular\\TzAngular.Backend\\Models\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Employee.cs",
+              "ToolTip": "D:\\Bandik\\Charp_and_Unity (Study)\\Charp test\\TzAngular\\TzAngular.Backend\\Models\\Entities\\Employee.cs",
+              "RelativeToolTip": "Models\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:26:58.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\Bandik\\Charp_and_Unity (Study)\\Charp test\\TzAngular\\TzAngular.Backend\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\Bandik\\Charp_and_Unity (Study)\\Charp test\\TzAngular\\TzAngular.Backend\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:36:06.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Bandik\\Charp_and_Unity (Study)\\Charp test\\TzAngular\\TzAngular.Backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Bandik\\Charp_and_Unity (Study)\\Charp test\\TzAngular\\TzAngular.Backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-08T12:47:20.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Bandik\\Charp_and_Unity (Study)\\Charp test\\TzAngular\\TzAngular.Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Bandik\\Charp_and_Unity (Study)\\Charp test\\TzAngular\\TzAngular.Backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:23:25.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Bandik\\Charp_and_Unity (Study)\\Charp test\\TzAngular\\TzAngular.Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Bandik\\Charp_and_Unity (Study)\\Charp test\\TzAngular\\TzAngular.Backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-07T10:59:05.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TzAngular.Backend.http",
+              "DocumentMoniker": "D:\\Bandik\\Charp_and_Unity (Study)\\Charp test\\TzAngular\\TzAngular.Backend\\TzAngular.Backend.http",
+              "RelativeDocumentMoniker": "TzAngular.Backend.http",
+              "ToolTip": "D:\\Bandik\\Charp_and_Unity (Study)\\Charp test\\TzAngular\\TzAngular.Backend\\TzAngular.Backend.http",
+              "RelativeToolTip": "TzAngular.Backend.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-07T13:05:52.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

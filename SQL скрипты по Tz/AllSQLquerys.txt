@@ -1,0 +1,12 @@
+use database;
+
+select * from Employees;
+
+select * from Employees
+where Salary > 10000;
+
+delete from Employee
+where datediff(year, Birthdate, getdate()) > 70;
+
+update Employees set Salary = 15000
+where Salary < 15000;
