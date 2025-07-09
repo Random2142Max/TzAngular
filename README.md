@@ -71,10 +71,6 @@ http://localhost:4200
 
 - Backend и frontend работают как отдельные приложения и взаимодействуют через REST API.
 - При необходимости настройте прокси для Angular (`proxy.conf.json`), чтобы избежать проблем с CORS при локальной разработке.
-- В Angular проекте присутствуют отдельно скрипты по требованию ТЗ
-- Расположение:
-  TzAngular/SQL скрипты по Tz/AllSQLquerys.txt
-
 - В проекте используются стандартные структуры:
 
 TzAngular.Backend/ # Backend (ASP.NET Core)
@@ -87,6 +83,9 @@ angular.json # Конфигурация Angular CLI
 package.json # Зависимости npm
 README.md # Документация проекта
 
+- В Angular проекте присутствуют отдельно скрипты по требованию ТЗ
+- Расположение:
+TzAngular/SQL скрипты по Tz/AllSQLquerys.txt
 ---
 
 ## 4. Полезные команды
