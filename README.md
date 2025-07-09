@@ -77,6 +77,7 @@ TzAngular.Backend/ # Backend (ASP.NET Core)
 TzAngular.Frontend/ # Frontend (Angular)
 
 - В Angular проекте основные файлы и папки:
+
 src/app/ # Компоненты, сервисы, модули приложения
 src/assets/ # Статические ресурсы
 angular.json # Конфигурация Angular CLI
