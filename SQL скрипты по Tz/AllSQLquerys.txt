@@ -1,12 +1,12 @@
 use AngularTzDataBase;
 
-select * from Employees;
+select * from dbo.Employees;
 
-select * from Employees
-where Salary > 10000;
+select * from dbo.Employees
+where Employees.Wages > 10000;
 
-delete from Employee
+delete from dbo.Employees
 where datediff(year, Birthdate, getdate()) > 70;
 
-update Employees set Salary = 15000
-where Salary < 15000;
+update dbo.Employees set Wages = 15000
+where Wages < 15000;
